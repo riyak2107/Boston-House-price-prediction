@@ -58,7 +58,7 @@ print(mean_squared_error(y_test, y_pred))
 #print(df.dtypes)
 
 '''
-OUTPUT : 
+OUTPUT :  
 36.478011752517276
 
 Process finished with exit code 0
